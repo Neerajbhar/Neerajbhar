@@ -4,7 +4,6 @@
 
 I'm an MCA student from India passionate about building scalable web and mobile applications. I enjoy solving real-world problems through technology and continuously learning modern software development practices.
 
-* 🔭 **Currently working on:** Smart Campus Navigation System (MERN Stack)
 * 🌱 **Currently learning:** Java, Data Structures & Algorithms, MERN Stack, Flutter, and Cybersecurity
 * 👯 **Looking to collaborate on:** Full-Stack Web Development and Open Source Projects
 * 🤝 **Looking for help with:** Advanced Java, System Design, and Software Development
