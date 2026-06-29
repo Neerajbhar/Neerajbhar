@@ -1,76 +1,65 @@
-
 # 💫 Hi 👋, I'm Neeraj Rajbhar
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;MCA+Student;Full-Stack+Developer;Cybersecurity+Enthusiast"/>
+</p>
 
 ### 💻 Software Developer | MCA Student | Full-Stack Developer | Cybersecurity Enthusiast
 
-I'm an MCA student from India passionate about building scalable web and mobile applications using modern technologies. I enjoy solving real-world problems, learning new technologies, and building projects that make an impact.
-
----
+I'm a passionate MCA student from India with a strong interest in Software Development, Full-Stack Web Development, and Cybersecurity.
 
 ## 🚀 About Me
-
-- 🌱 Currently learning **Java, Data Structures & Algorithms, MERN Stack, Flutter & Cybersecurity**
+- 🌱 Currently learning **Java, DSA, MERN Stack, Flutter & Cybersecurity**
 - 👯 Looking to collaborate on **Open Source & Full-Stack Projects**
 - 💬 Ask me about **Java, MERN Stack, Flutter, REST APIs & Git**
-- 📫 Reach me at **neerajrajbhar56@gmail.com**
-- ⚡ Fun fact: **I enjoy turning ideas into real-world applications.**
+- 📫 **Email:** neerajrajbhar56@gmail.com
+- ⚡ I enjoy building real-world applications.
 
----
-
-## 🌐 Connect with Me
-
+## 🌐 Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajrajbhar56@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neerajbhar)
 
----
+## 💻 Tech Stack
+Java • Python • JavaScript • React • Node.js • Express • MongoDB • MySQL • Flutter • Firebase • Git • GitHub • Postman
 
-# 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+### 🧭 Smart Campus Navigation System
+QR-based MERN campus navigation system.
 
 ### 💰 BudgetBuddy
-Expense Tracker built using the MERN Stack with JWT Authentication, charts, and secure user management.
+Expense tracker using MERN Stack and JWT Authentication.
 
 ### 🚗 Car Care
-Cross-platform Flutter application integrated with Firebase, Google Maps, Razorpay, and Appointment Booking.
+Flutter + Firebase application with Maps and Razorpay.
 
-### 🧭 Smart Campus Navigation System
-A MERN Stack application that helps students navigate the college campus efficiently.
+## 📊 GitHub Stats
 
----
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neerajbhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajbhar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-# 📊 GitHub Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Neerajbhar&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Neerajbhar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neerajbhar&theme=tokyo-night&hide_border=true)](https://github.com/Neerajbhar)
 
-![](https://streak-stats.demolab.com?user=Neerajbhar&theme=tokyonight&hide_border=true)
+## 📜 Certifications
+- Java Programming
+- Prompt Engineering
+- Cisco Networking Academy (after completion)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajbhar&theme=tokyonight&hide_border=true&layout=compact)
+## 🌍 Languages
+- English
+- Hindi
+- Konkani
 
----
-
-### ✍️ Random Dev Quote
-
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 👀 Profile Views
-
+## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Neerajbhar&label=Profile%20Views&color=0e75b6&style=flat)
 
+⭐ Thanks for visiting my profile!
