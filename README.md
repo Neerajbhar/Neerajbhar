@@ -9,17 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=Neerajbhar&label=Profile%20Views&color=0e75b6&style=flat" alt="Neerajbhar" />
 </p>
 
-- 🔭 I'm currently working on **Smart Campus Navigation System**
-
 - 🌱 I'm currently learning **Java, DSA, MERN Stack, Flutter & Cybersecurity**
-
-- 👯 I'm looking to collaborate on **Open Source & Full-Stack Projects**
-
+  
 - 💬 Ask me about **Java, MERN Stack, Flutter, REST APIs & Git**
 
 - 📫 How to reach me **neerajrajbhar56@gmail.com**
 
-- ⚡ Fun fact **I turn chai ☕ into code!**
 
 <br/>
 
@@ -133,6 +128,4 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<br/>
----
 <p align="center">⭐ Thanks for visiting my profile — feel free to explore my repositories!</p>
