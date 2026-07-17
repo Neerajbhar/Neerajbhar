@@ -87,7 +87,7 @@
 <h3 align="left">🚀 Featured Projects:</h3>
 
 **🧭 Smart Campus Navigation System**
-> QR-based MERN stack app for intuitive campus navigation — scan, locate, navigate.
+> Indoor navigation system built with Unity and AR technologies for accurate campus route guidance.
 
 **💰 BudgetBuddy**
 > Personal expense tracker with MERN Stack and JWT Authentication.
